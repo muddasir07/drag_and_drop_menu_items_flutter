@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.drag_and_drop"
+    minSdkVersion="21"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;C:\flutter_windows_3.7.12-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\Muddasir Shabbir\.gradle\caches\transforms-3\bd65921de16db1d78bd37241e498ab28\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\javac\release\classes;E:\RapidPay\Flutter\drag_and_drop-master\build\app\tmp\kotlin-classes\release;E:\RapidPay\Flutter\drag_and_drop-master\build\app\kotlinToolingMetadata;E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.drag_and_drop"
+      generatedSourceFolders="E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\ap_generated_sources\release\out;E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\aidl_source_output_dir\release\out;E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\source\buildConfig\release;E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\res\rs\release;E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

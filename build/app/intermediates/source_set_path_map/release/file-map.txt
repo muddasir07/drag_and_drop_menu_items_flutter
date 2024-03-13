@@ -1,0 +1,12 @@
+com.example.drag_and_drop.app-jetified-window-1.0.0-beta04-0 C:\Users\Muddasir Shabbir\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.drag_and_drop.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Muddasir Shabbir\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.drag_and_drop.app-core-1.6.0-2 C:\Users\Muddasir Shabbir\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.drag_and_drop.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Muddasir Shabbir\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.drag_and_drop.app-main-4 E:\RapidPay\Flutter\drag_and_drop-master\android\app\src\main\res
+com.example.drag_and_drop.app-release-5 E:\RapidPay\Flutter\drag_and_drop-master\android\app\src\release\res
+com.example.drag_and_drop.app-pngs-6 E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\res\pngs\release
+com.example.drag_and_drop.app-resValues-7 E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\res\resValues\release
+com.example.drag_and_drop.app-rs-8 E:\RapidPay\Flutter\drag_and_drop-master\build\app\generated\res\rs\release
+com.example.drag_and_drop.app-mergeReleaseResources-9 E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.drag_and_drop.app-mergeReleaseResources-10 E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.drag_and_drop.app-merged_res-11 E:\RapidPay\Flutter\drag_and_drop-master\build\app\intermediates\merged_res\release
